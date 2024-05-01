@@ -13,6 +13,7 @@ import multiprocessing
 
 def someinfo():
     ### information about video stability and how to calculate it
+    ## NOTE that many of these metrics were obtained from careful conversation with Github copilot and trial and error to see which metrics actually made sense to use based on sample video data. Use at your own discretion.
     '''
     Video stability can be calculated using various techniques, many of which involve artificial intelligence (AI) and sophisticated algorithms. Here's a brief overview:
 
